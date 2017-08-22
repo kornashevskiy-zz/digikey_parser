@@ -1,0 +1,8 @@
+parser:
+    resource: "@ParserBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
